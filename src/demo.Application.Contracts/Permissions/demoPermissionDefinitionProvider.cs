@@ -12,7 +12,7 @@ namespace demo.Permissions
 
             //Define your own permissions here. Example:
             //myGroup.AddPermission(demoPermissions.MyPermission1, L("Permission:MyPermission1"));
-            
+            myGroup.AddPermission(demoPermissions.DemoValidPermission);
         }
 
         private static LocalizableString L(string name)
