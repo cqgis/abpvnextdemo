@@ -2,7 +2,7 @@
 
  This Project is Show the problem about abp vnext 
 
- https://github.com/abpframework/abp/issues/2262[!https://github.com/abpframework/abp/issues/2262]
+ https://github.com/abpframework/abp/issues/2262
 
 
  It just add custom app service 
